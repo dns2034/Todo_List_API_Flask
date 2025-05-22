@@ -15,6 +15,18 @@ This is a simple Todo List API built using Flask. It allows users to add tasks t
 - **GET /todos**: Retrieve the list of current todos in JSON format.
 - **POST /todos**: Add a new todo item by sending a JSON payload.
 
+## Postman Collection
+
+The included Postman collection (`New Collection.postman_collection.json`) contains preconfigured requests for the API endpoints to help you quickly test the API functionality.
+
+### How to use the Postman Collection:
+
+1. Download or clone this repository.
+2. Open Postman.
+3. Click **Import**.
+4. Choose the `New Collection.postman_collection.json` file from this repository.
+5. Send requests and see responses to test the API.
+
 ## Setup and Run
 
 1. **Install Python** (if not installed):
