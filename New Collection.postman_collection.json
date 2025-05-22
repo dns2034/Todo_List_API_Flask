@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "b3aa64b4-7204-45fa-9f75-8e0aeb2a2e0a",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45194725",
+		"_collection_link": "https://denese.postman.co/workspace/2c11a45e-e03b-4d2d-8b7b-2a5f350f90d1/collection/45194725-b3aa64b4-7204-45fa-9f75-8e0aeb2a2e0a?action=share&source=collection_link&creator=45194725"
+	},
+	"item": [
+		{
+			"name": "Todo List API (Flask)",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Test API",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
